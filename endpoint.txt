@@ -1,3 +1,3 @@
-tunnel=https://d17342c71f5c32.lhr.life
+tunnel=https://f78b5441c1747e.lhr.life
 v6=http://2409-8a1e-4d26-7d50-1fc5-95d4-de9b-63f8.sslip.io:8730
-updated=2026-10-25T10:14:51.795Z
+updated=2026-10-25T10:34:52.140Z
