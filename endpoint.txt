@@ -1,4 +1,4 @@
 v6=http://2409-8a1e-4d22-9750-1502-f62b-2bcf-8ab3.sslip.io:8730
 lit6=http://[2409:8a1e:4d22:9750:1502:f62b:2bcf:8ab3]:8730
-tunnel=https://2d1483f5014948.lhr.life
-updated=2026-11-03T15:44:37.236Z
+tunnel=https://8113ea41c3a2b2.lhr.life
+updated=2026-11-03T16:04:37.756Z
