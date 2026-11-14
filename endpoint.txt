@@ -1,2 +1,2 @@
-tunnel=https://fd975cbb4a0eb9.lhr.life
-updated=2026-11-14T04:59:32.243Z
+tunnel=https://d8103602b0fb50.app.lhr.life
+updated=2026-11-14T05:00:41.340Z
